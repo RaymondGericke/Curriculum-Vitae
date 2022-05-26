@@ -1,0 +1,21 @@
+Good day,
+
+Thank you for taking the time to review this application.
+To run the application, please see the packag.json file for dependencies, and or run the following commands:
+"dependencies": {
+
+npm i @emailjs/browser
+npm i cors
+npm i dotenv
+npm i emailjs-com
+npm i express
+npm i heroku
+npm i nodemailer
+npm i nodemon
+
+}
+
+To run application after packet instalations navigate to "App.js" in "./client/src/App.js"
+Right click on App.js
+"Open in integrated Terminal"
+In the terminal please type the following "npm start"
